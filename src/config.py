@@ -1,2 +1,0 @@
-SETTING_A = 1
-SETTING_B = 2
